@@ -1,0 +1,8 @@
+name: prizm-fixture
+on:
+  workflow_dispatch: {}
+jobs:
+  noop:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "prizm fixture run"
