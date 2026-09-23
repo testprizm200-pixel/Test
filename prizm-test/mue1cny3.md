@@ -1,4 +1,5 @@
 # [prizm-test]
 
-line one
+line one (edited)
 line two
+line three
